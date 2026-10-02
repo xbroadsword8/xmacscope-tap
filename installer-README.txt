@@ -23,7 +23,8 @@ Copyright (C) 2026 金皓哲 (xmac jin)
   主程式的授權見上一層資料夾的 LICENSE.txt。
 
   完整原始碼（含建置腳本，以及用到的 Steinberg ASIO SDK 介面定義檔）在同一個資料夾的
-  xmacscope-tap-source.zip。
+  xmacscope-tap-source.zip。原始碼也公開在 GitHub：
+  https://github.com/xbroadsword8/xmacscope-tap
 
   本元件使用 Steinberg ASIO SDK（依其 GPLv3 授權選項）。
   ASIO is a trademark and software of Steinberg Media Technologies GmbH.
