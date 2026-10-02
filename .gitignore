@@ -1,0 +1,3 @@
+# Steinberg ASIO SDK：用 fetch-sdk.sh 從官方下載，不放進版本庫
+third_party/
+build/
